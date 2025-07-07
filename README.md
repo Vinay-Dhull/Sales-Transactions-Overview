@@ -50,9 +50,8 @@ Ideal for:
 
 ## 🖼️ Preview
 
+![image](https://github.com/user-attachments/assets/0d68f9f6-8658-41b7-8421-41b49d17d116)
  
-![Screenshot 2025-07-07 171901](https://github.com/user-attachments/assets/4fb128df-83ef-4104-887d-5f614552f64f)
-
 ---
 
 ## 📥 How to Use
